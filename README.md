@@ -1,0 +1,14 @@
+# Air Quality Index Search App
+
+**Tech Stack:** Java, Spring Boot, React, Axios
+
+**Features:**
+- Search AQI by city name
+- Real-time error handling
+- Color-coded AQI display
+
+**Run Backend:**
+```bash
+cd backend
+mvn clean package
+java -jar target/aqisearch-1.0.0.jar
