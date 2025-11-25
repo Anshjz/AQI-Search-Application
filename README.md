@@ -9,6 +9,5 @@
 
 **Run Backend:**
 ```bash
-cd backend
 mvn clean package
 java -jar target/aqisearch-1.0.0.jar
