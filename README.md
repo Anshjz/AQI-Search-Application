@@ -11,3 +11,8 @@
 ```bash
 mvn clean package
 java -jar target/aqisearch-1.0.0.jar
+
+**Run Frontend:**
+cd frontend
+npm install
+npm start
